@@ -43,7 +43,7 @@
         "id": 2,
         "name": "电视直播",
         "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
-        "url": "https://gitee.com/cf010/ds/raw/master/zb.m3u",
+        "url": "https://cdn.jsdelivr.net/gh/jessic01/tv@main/zb.m3u",
         "color": "11",
         "type": "app://m3u",
         "show": true
