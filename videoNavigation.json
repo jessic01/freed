@@ -263,7 +263,7 @@
           "name": "直播频道2",
           "type": "app://m3u",
           "pic": "",
-          "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u"
+          "url": "https://cdn.jsdelivr.net/gh/jessic01/tv@main/zb.m3u"
         }
       ]
     },
